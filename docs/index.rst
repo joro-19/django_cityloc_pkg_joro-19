@@ -7,9 +7,8 @@ Welcome to django_cityloc_pkg's documentation!
 ==============================================
 
 
-
-.. automodule::django_cityloc_pkg
-   :members:
+.. automodule:: django_cityloc_pkg
+   :members: 
 
 
 Indices and tables
